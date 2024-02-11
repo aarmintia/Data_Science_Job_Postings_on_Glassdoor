@@ -29,7 +29,8 @@ Simplify data to appropriately categorize or analyze them later.
 Utilized nltk (Natural Language Toolkit) and CountVectorizer to uncover patterns and gain meaningful insights from Job Description column. The result presented a comprehensive view of the frequency of each term across all job descriptions. The top keywords revealed the most prevalent terms in job descriptions, shedding light on the skills and qualifications currently in demand, insights that are invaluable for job seekers, employers, and industry observers aiming to navigate the dynamic job market.
 <br>
 <img src='Images/WordCloud.png' width=500px, length=150px alt='Word Cloud'>
+The 28% share underscores IT as a dominant and rapidly expanding sector. Professionals in software development, cybersecurity, data science, and emerging technologies are likely to find abundant opportunities, reflecting the critical role technology plays in various industries.
 <br>
-By aligning your job search strategy with the specific demands of each sector, you increase your chances of finding meaningful and rewarding opportunities in the dynamic field of data science.
+The 17.9% share highlights the strategic importance of Business Services in data-driven decision-making and operational optimization. Professionals in consulting, analytics, and management services play key roles in shaping business strategies.
 <br>
 <img src='Images/Sector.png' width=500px, length=150px alt='Sector'>
