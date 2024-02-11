@@ -26,3 +26,5 @@ Check each column to verify that there are no errors and missing data.
 <br>
 Simplify data to appropriately categorize or analyze them later.
 <h1>Exploratory Data Analysis</h1>
+<img src='Images/WordCloud.png' width=500px, length=150px alt='Word Cloud'>
+<img src='Images/Sector.png' width=500px, length=150px alt='Sector'>
