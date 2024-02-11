@@ -6,25 +6,18 @@ The data was scrapped from Glassdoor's website. There are two versions of the da
 <h2>Features</h2>
   <ul>
     <li>index</li>
-    <li>Job Title</li>
-    <li>Salary Estimate</li>
-    <li>Job Description</li>
-    <li>Rating</li>
-    <li>Company Name</li>
-    <li>Location</li>
-    <li>Headquarters</li>
-    <li>Size</li>
+    <li>Job Title - <i>Title of the job posting</i></li>
+    <li>Salary Estimate - <i>Salary range for that particular job</i></li>
+    <li>Job Description - <i>This contains the full description of that job</i></li>
+    <li>Rating - <i>Rating of that post</i></li>
+    <li>Company Name - <i>Name of company</i></li>
+    <li>Location - <i>Location of the company</i></li>
+    <li>Headquarters - <i>Location of the headquater</i></li>
+    <li>Size - <i>Total employee in that company</i></li>
     <li>Founded</li>
-    <li>Type of ownership</li>
-    <li>Industry</li>
-    <li>Sector</li>
-    <li>Revenue</li>
+    <li>Type of ownership - <i>Describes the company type i.e non-profit/public/private farm etc</i></li>
+    <li>Industry - <i>Field applicant will work in</i></li>
+    <li>Sector - <i>Field applicant will work in</i></li>
+    <li>Revenue - <i>Total revenue of the company</i></li>
     <li>Competitors</li>
-    <li>Job Title_simp</li>
-    <li>Seniority</li>
-    <li>Salary Estimate_extract</li>
-    <li>Minimum</li>
-    <li>Maximum</li>
-    <li>Salary_avg</li>
-    <li>Processed_Description</li>
   </ul>
