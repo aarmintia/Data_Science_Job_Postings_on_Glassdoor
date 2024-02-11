@@ -26,5 +26,10 @@ Check each column to verify that there are no errors and missing data.
 <br>
 Simplify data to appropriately categorize or analyze them later.
 <h1>Exploratory Data Analysis</h1>
+Utilized nltk (Natural Language Toolkit) and CountVectorizer to uncover patterns and gain meaningful insights from Job Description column. The result presented a comprehensive view of the frequency of each term across all job descriptions. The top keywords revealed the most prevalent terms in job descriptions, shedding light on the skills and qualifications currently in demand, insights that are invaluable for job seekers, employers, and industry observers aiming to navigate the dynamic job market.
+<br>
 <img src='Images/WordCloud.png' width=500px, length=150px alt='Word Cloud'>
+<br>
+By aligning your job search strategy with the specific demands of each sector, you increase your chances of finding meaningful and rewarding opportunities in the dynamic field of data science.
+<br>
 <img src='Images/Sector.png' width=500px, length=150px alt='Sector'>
