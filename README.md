@@ -21,3 +21,8 @@ The data was scrapped from Glassdoor's website. There are two versions of the da
     <li>Revenue - <i>Total revenue of the company</i></li>
     <li>Competitors</li>
   </ul>
+<h1>Data Cleaning and Transformation</h1>
+Check each column to verify that there are no errors and missing data.
+<br>
+Simplify data to appropriately categorize or analyze them later.
+<h1>Exploratory Data Analysis</h1>
